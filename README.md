@@ -1,4 +1,4 @@
-Hi thanks for downloading my Folder organisation script. Before you get started and try and adapt this onto your own machines there\'92s a few steps you must first complete. 
+Hi thanks for downloading my Folder organisation script. Before you get started and try and adapt this onto your own machines there are a few steps you must first complete. 
 
 For Mac Users (if Windows search Google for how to complete the following):
 Step 1:
